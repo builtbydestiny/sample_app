@@ -14,6 +14,7 @@ end
 
 group :test do 
   gem "capybara", "~> 2.1.0"
+  gem "spork", "~> 0.9.2"
 end
 
 # Gems used only for assets and not required
